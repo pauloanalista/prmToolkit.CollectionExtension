@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>prmToolkit.CollectionExtension</id>
+    <version>0.0.1.1</version>
+    <authors>Paulo Rogério</authors>
+    <owners>Paulo Rogério</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/pauloanalista/prmToolkit</projectUrl>
+    <iconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</iconUrl>
+    <description>Pacote responsável por extender as funcionalidades das coleções do C#
+
+### Recursos disponíveis
+- SplitCollection (Divide uma coleção em coleções menores, baseado em uma quantidade de registros informada)</description>
+    <tags>collection ienumerable list extension paulorogerio</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.dll" target="lib\netstandard2.0\prmToolkit.CollectionExtension.dll" />
+  </files>
+</package>

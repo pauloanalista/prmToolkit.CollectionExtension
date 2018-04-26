@@ -1,0 +1,17 @@
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.deps.json
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.dll
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.pdb
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.csproj.CoreCompileInputs.cache
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.AssemblyInfoInputs.cache
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.AssemblyInfo.cs
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.dll
+C:\_Paulo\GitHub\prmToolkit.CollectionExtension\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.pdb
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.deps.json
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.dll
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\bin\Release\netstandard2.0\prmToolkit.CollectionExtension.pdb
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.csprojResolveAssemblyReference.cache
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.csproj.CoreCompileInputs.cache
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.AssemblyInfoInputs.cache
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.AssemblyInfo.cs
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.dll
+C:\_Paulo\GitHub\prmToolkit.CollectionExtensionNovo\prmToolkit.CollectionExtension\obj\Release\netstandard2.0\prmToolkit.CollectionExtension.pdb

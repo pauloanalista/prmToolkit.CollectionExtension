@@ -1,0 +1,9 @@
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\bin\Debug\netstandard2.0\prmToolkit.EnumExtension.deps.json
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\bin\Debug\netstandard2.0\prmToolkit.EnumExtension.dll
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\bin\Debug\netstandard2.0\prmToolkit.EnumExtension.pdb
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\obj\Debug\netstandard2.0\prmToolkit.EnumExtension.csprojResolveAssemblyReference.cache
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\obj\Debug\netstandard2.0\prmToolkit.EnumExtension.csproj.CoreCompileInputs.cache
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\obj\Debug\netstandard2.0\prmToolkit.EnumExtension.AssemblyInfoInputs.cache
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\obj\Debug\netstandard2.0\prmToolkit.EnumExtension.AssemblyInfo.cs
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\obj\Debug\netstandard2.0\prmToolkit.EnumExtension.dll
+C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\obj\Debug\netstandard2.0\prmToolkit.EnumExtension.pdb

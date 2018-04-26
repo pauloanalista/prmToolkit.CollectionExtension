@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>prmToolkit.EnumExtension</id>
+    <version>2.0.0</version>
+    <authors>Paulo Rogério</authors>
+    <owners>Paulo Rogério</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/pauloanalista/prmToolkit</projectUrl>
+    <iconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</iconUrl>
+    <description>Pacote responsável por extender as funcionalidades do Enum do C#
+
+### Recursos disponíveis
+- GetDescription (obtém a descrição do enum)
+- ToEnum (Obtém o Enum através do nome passado)
+- GetAttribute (Obtém o atributo customizado do enum)
+- IsEnumValid(Validar se o valor que está no Enum foi definido corretamente)
+- IsEnumValid(Validar se o valor inteiro  pertence a um Enum especifico)</description>
+    <releaseNotes>Adicionado 2 novos métodos
+- IsEnumValid(Validar se o valor que está no Enum foi definido corretamente)
+- IsEnumValid(Validar se o valor inteiro  pertence a um Enum especifico)</releaseNotes>
+    <tags>Enum extension enumerador enuns paulorogerio</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_Paulo\GitHub\prmToolkit.EnumExtension\prmToolkit.EnumExtension\bin\Release\netstandard2.0\prmToolkit.EnumExtension.dll" target="lib\netstandard2.0\prmToolkit.EnumExtension.dll" />
+  </files>
+</package>
